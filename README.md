@@ -9,8 +9,12 @@ Each team member implements one or more functions.
 
 ### ADD
 ```
-function add(a, b):
-    // TODO: implement
+divide implement
+int a= 4;
+
+int b = 2;
+
+Console.WriteLine(a/b);
 ```
 
 ### SUBTRACT
@@ -22,7 +26,4 @@ function subtract(a, b):
 ---
 
 <!-- Other team members: add your functions below this line -->
-### divide implement
- int a= 4;
- int b = 2;
- Console.WriteLine(a/b);
+ 
