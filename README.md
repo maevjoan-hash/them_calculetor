@@ -8,10 +8,12 @@ Each team member implements one or more functions.
 ## Functions
 
 ### ADD
+```int a = int.Parse(Console.ReadLine());
+ int b = int.Parse(Console.ReadLine());
+ int sum = a + b;
+ Console.WriteLine("The sum is: " + sum);
 ```
-function add(a, b):
-    // TODO: implement
-```
+
 
 ### SUBTRACT
 ```
@@ -26,3 +28,5 @@ function subtract(a, b):
  int a= 4;
  int b = 2;
  Console.WriteLine(a/b);
+ 
+ 
