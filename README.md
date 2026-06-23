@@ -20,10 +20,11 @@ function subtract(a, b):
 ---
 
 <!-- Other team members: add your functions below this line -->
- ###divide implement
-
+### Divide implement
+```
 int a= 4;
 
 int b = 2;
 
 Console.WriteLine(a/b);
+```
