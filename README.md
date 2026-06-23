@@ -16,7 +16,23 @@ Each team member implements one or more functions.
 
 
 ### SUBTRACT
-```
+```public static void Divide()
+{
+    Console.Write("Enter first number: ");
+    double a = double.Parse(Console.ReadLine());
+    Console.Write("Enter second number: ");
+    double b = double.Parse(Console.ReadLine());
+
+    if (b == 0)
+    {
+        Console.WriteLine("Cannot divide by zero!");
+    }
+    else
+    {
+        Console.WriteLine($"Result: {a / b}");
+    }
+}
+
 function subtract(a, b):
     // TODO: implement
 ```
